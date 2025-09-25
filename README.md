@@ -1,5 +1,9 @@
 # JustRunMy.App MCP Server
 
+JustRunMy.App is a lightweight hosting platform built to remove the headaches of deployment. Instead of wrestling with servers, configs, or Docker, you can publish apps in seconds - from IDEs like Cursor or VS Code, or simply by uploading your code.  
+
+We designed it for hobbyists, tinkerers, and indie builders who want to share their projects quickly and cheaply, without learning DevOps. With the new MCP server, your AI assistant can not only help you write code, but also deploy, manage, and update your apps directly.
+
 This repository contains instructions on how to connect to the **JustRunMy.App MCP server** and start using it with your IDE or agent.
 
 ---
